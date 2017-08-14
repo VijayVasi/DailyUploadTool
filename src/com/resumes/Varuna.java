@@ -1,5 +1,12 @@
 package com.resumes;
 
-public class Varuna {
+import org.testng.annotations.Test;
 
+public class Varuna {
+	
+	@Test
+	public void test()
+	{
+		
+	}
 }
